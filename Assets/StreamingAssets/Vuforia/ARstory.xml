@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="pink_sky_2" size="1.058333 1.587499" />
+    <ImageTarget name="blue_sky_2" size="0.863600 1.295400" />
+    <ImageTarget name="orange_blue_sky" size="1.303866 0.863600" />
+    <ImageTarget name="pink_moon" size="0.495829 0.743743" />
+    <ImageTarget name="pink_sky" size="1.058333 1.587499" />
+    <ImageTarget name="night_sky" size="0.863600 1.294077" />
+    <ImageTarget name="sunrise1" size="0.931068 1.396470" />
+    <ImageTarget name="blue_sky" size="0.863600 1.295400" />
+  </Tracking>
+</QCARConfig>
